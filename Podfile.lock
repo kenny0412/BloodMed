@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyToolTip (0.0.3)
+
+DEPENDENCIES:
+  - SwiftyToolTip
+
+SPEC REPOS:
+  trunk:
+    - SwiftyToolTip
+
+SPEC CHECKSUMS:
+  SwiftyToolTip: 40c995f88951aca99d836472cfe12be423b3ba9b
+
+PODFILE CHECKSUM: 17d14cc5582fcf0bb75502a321c12af25b095147
+
+COCOAPODS: 1.9.3

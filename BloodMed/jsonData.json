@@ -1,0 +1,739 @@
+{
+  "bloodMed": {
+    "Interacciones_anticuagulantes": [
+      {
+        "name": "Ácido acetilsalicílico",
+        "title":"Antiagregante plaquetario, inhibidor de la síntesis de prostaglandinas",
+        "interacciones": [
+          {
+            "id": 1,
+            "name": "AINEs",
+            "description": "Pueden atenuar la inhibición plaquetaria irreversible"
+          },
+          {
+            "id": 2,
+            "name": "Anticoagulantes, trombolíticos y otros inhibidores de la agregación plaquetaria",
+            "description": "Aumentan el riesgo de hemorragia"
+          },
+          {
+            "id": 3,
+            "name": "Inhibidores selectivos de la recaptación de serotonina",
+            "description": "Aumentan el riesgo de hemorragia en general"
+          },
+          {
+            "id": 4,
+            "name": "Digoxina",
+            "description": "Los AINEs incrementan los niveles plasmáticos de digoxina"
+          },
+          {
+            "id": 5,
+            "name": "Antidiabéticos como insulina y sulfonilureas",
+            "description": "Aumenta el efecto hipoglucemiante"
+          },
+          {
+            "id": 6,
+            "name": "Diuréticos",
+            "description": "Puede producirse una disminución de la filtración glomerular."
+          },
+          {
+            "id": 7,
+            "name": "Corticoides sistémicos, excepto hidrocortisona administrada como terapia de sustitución en la enfermedad de Addison",
+            "description": "Incrementa el riesgo de úlceras y de hemorragias gastrointestinales."
+          },
+          {
+            "id": 8,
+            "name": "Inhibidores de la enzima convertidora de la angiotensina (ECA) y antagonistas de los receptores de la angiotensina II",
+            "description": "Se ejerce un efecto sinérgico en la reducción de la filtración glomerular y se puede inhibir las prostaglandinas con efecto vasodilatador."
+          },
+          {
+            "id": 9,
+            "name": "Ácido valproico",
+            "description": "Disminución de la unión a proteínas plasmáticas y una inhibición del metabolismo de ácido valproico."
+          },
+          {
+            "id": 10,
+            "name": "Alcohol",
+            "description": "Aumento del riesgo de hemorragia digestiva."
+          },
+          {
+            "id": 11,
+            "name": "Uricosúricos",
+            "description": "Disminución del efecto del ácido salicílico y una disminución de la  excreción del ácido acetilsalicílico alcanzando niveles plasmáticos más altos."
+          },
+          {
+            "id": 12,
+            "name": "Otros antihipertensivos (β-bloqueantes)",
+            "description": "Disminuir el efecto antihipertensivo de los β-bloqueantes."
+          },
+          {
+            "id": 13,
+            "name": "Ciclosporina",
+            "description": "Los AINEs pueden aumentar la nefrotoxicidad de la ciclosporina."
+          },
+          {
+            "id": 14,
+            "name": "Vancomicina",
+            "description": "El ácido acetilsalicílico aumenta el riesgo de toxicidad de la vancomicina."
+          },
+          {
+            "id": 15,
+            "name": "Interferón-α",
+            "description": "El ácido acetilsalicílico disminuye la actividad del interferón-α."
+          },
+          {
+            "id": 16,
+            "name": " Litio",
+            "description": "Los AINES disminuyen la excreción de litio aumentando los niveles de litio en sangre."
+          },
+          {
+            "id": 17,
+            "name": "Antiácidos",
+            "description": "Aumentan la excreción renal de los salicilatos por alcalinización de la orina."
+          },
+          {
+            "id": 18,
+            "name": "Barbitúricos",
+            "description": "El ácido acetilsalicílico aumenta las concentraciones plasmáticas de los barbitúricos."
+          },
+          {
+            "id": 19,
+            "name": "Zidovudina",
+            "description": "El ácido acetilsalicílico puede aumentar las concentraciones plasmáticas de zidovudina."
+          },
+          {
+            "id": 20,
+            "name": "Fenitoína",
+            "description": "El ácido acetilsalicílico puede incrementar los niveles plasmáticos de fenitoína."
+          },
+          {
+            "id": 21,
+            "name": "Metamizol",
+            "description": "Reduce el efecto antiagregante plaquetario del ácido acetilsalicílico"
+          }
+        ]
+      },
+      {
+        "name": "Apixaban",
+        "title":"Potente inhibidor oral reversible, directo y altamente selectivo del factor Xa. Al inhibir el factor Xa, previene tanto la formación de trombina como la formación de trombos",
+        "interacciones": [
+          {
+            "id": 1,
+            "name": "Antimicóticos (ketoconazol, itraconazol, voriconazol y posaconazol) o inhibidores de la proteasa de VIH (ritonavir)",
+            "description": "Aumentan el AUC medio de apixaban, aumentando la Cmax media de apixaban."
+          },
+          {
+            "id": 2,
+            "name": "Amiodarona, claritromicina, diltiazem, fluconazol, naproxeno,  quinidina, verapamilo",
+            "description": "Aumentan en menor grado la concentración plasmática de apixaban."
+          },
+          {
+            "id": 3,
+            "name": "Rifampicina, fenitoína, carbamazepina, fenobarbital o la hierba de San Juan",
+            "description": "Disminuyen la concentración plasmática de apixaban y la eficacia se puede ver comprometida."
+          },
+          {
+            "id": 4,
+            "name": "Anticoagulantes",
+            "description": "Son inhibidores de la agregación plaquetaria."
+          },
+          {
+            "id": 5,
+            "name": "Antagonistas de los receptores de GPIIb/IIIa, dipiridamol, dextrano o sulfinpirazona) o agentes trombolíticos",
+            "description": "Son inhibidores de la agregación plaquetaria, aumentan el riesgo de sangrado."
+          },
+          {
+            "id": 6,
+            "name": "Carbón activado",
+            "description": "Reduce la exposición a apixaban."
+          }
+        ]
+      },
+      {
+        "name": "Bemiparina",
+        "title":"Anticoagulante y antitrombótico parenteral. Heparina de bajo peso molecular",
+        "interacciones": [
+          {
+            "id": 1,
+            "name": "Antagonistas de la vitamina K y otros anticoagulantes, ácido acetilsalicílico, otros salicilatos y antiinflamatorios no esteroideos, ticlopidina, clopidogrel y otros agentes antiagregantes plaquetarios, glucocorticoides sistémicos y dextranol",
+            "description": "Potencian el efecto farmacológico de bemiparina."
+          }
+        ]
+      },
+      {
+        "name": "Clopidogrel",
+        "title":"Inhibidor de la agregación plaquetaria",
+        "interacciones": [
+          {
+            "id": 1,
+            "name": "Anticoagulantes orales",
+            "description": "Incrementa la hemorragia debido al potencial efecto aditivo."
+          },
+          {
+            "id": 2,
+            "name": "Inhibidores de la glucoproteína",
+            "description": "Precaución con su uso concomitante."
+          },
+          {
+            "id": 3,
+            "name": "Ácido acetil salicílico",
+            "description": "Precaución, aumento del riesgo de hemorragia."
+          },
+          {
+            "id": 4,
+            "name": "Heparina",
+            "description": "Precaución, interacción farmacodinamica que conlleva al aumento de riesgo de hemorragia."
+          },
+          {
+            "id": 5,
+            "name": "Trombolíticos",
+            "description": "Incidencia de hemorragia cuando se administra concomitantemente con agentes trombolíticos y heparina junto con AAS."
+          },
+          {
+            "id": 6,
+            "name": "Antiinflamatorios no esteroideos",
+            "description": "Debe realizarse con precaución, ya que aumenta el riesgo de hemorragia gastrointestinal con todos los AINEs, incluidos los inhibidores de la COX-2"
+          },
+          {
+            "id": 7,
+            "name": "ISRS",
+            "description": "Realizarse con precaución, afectan la activación plaquetaria e incrementan el riesgo de hemorragia."
+          },
+          {
+            "id": 8,
+            "name": "Inhibidores de la bomba de protones",
+            "description": "Se asocia con una reducción de la agregación plaquetaria."
+          },
+          {
+            "id": 9,
+            "name": "Medicamentos sustratos del CYP2C8",
+            "description": "Incremento en las concentraciones plasmáticas de medicamentos metabolizados en el CYP2C8"
+          }
+        ]
+      },
+      {
+        "name": "Dabigatrán",
+        "title":"Inhibidor directo de la trombina.",
+        "interacciones": [
+          {
+            "id": 1,
+            "name": "Inhibidores de la gp-P",
+            "description": "Ketoconazol, dronedarona, itraconazol, ciclosporina, glecaprevir,  pibrentasvir, tacrolimus, verapamilo, amiodarona, quinidina, claritromicina y tricagrelor aumentan los valores totales del AUC y la Cmáx de dabigatrán."
+          },
+          {
+            "id": 2,
+            "name": "Inductores de la gp-P",
+            "description": "Rifampicina, hierba de San Juan (Hypericum perforatum), carbamazepina o fenitoína, disminuyen de las concentraciones plasmáticas de dabigatrán."
+          },
+          {
+            "id": 3,
+            "name": "Inhibidores de la proteasa como ritonavir",
+            "description": "Ritonavir y sus combinaciones con otros inhibidores de la proteasa afectan a la gp-P ya sea como inhibidores o como inductores."
+          },
+          {
+            "id": 4,
+            "name": "Anticoagulantes y medicamentos antiagregantes plaquetarios",
+            "description": "AINEs y AAS, la AUC y la Cmáx de dabigatrán aumentan, provocando riesgo de cualquier hemorragia."
+          },
+          {
+            "id": 5,
+            "name": "ISRS o ISRSN",
+            "description": "Aumentan riesgo de sangrado."
+          },
+          {
+            "id": 6,
+            "name": "Pantoprazol",
+            "description": "Reducción del AUG del dabigatrán."
+          }
+        ]
+      },
+      {
+        "name": "Heparina",
+        "title":"Anticoagulante parenteral",
+        "interacciones": [
+          {
+            "id": 1,
+            "name": "antiagregantes plaquetarios, fibrinolíticos, antiinflamatorios no esteroideos (AINEs), glucocorticoides y dextranos, altas dosis de penicilina y algunas cefalosporinas (cefamandol, cefoperazona), algunos medios de contraste, asparaginasa y epoprostenol",
+            "description": "Pueden atenuar la inhibición plaquetaria irreversible"
+          },
+          {
+            "id": 2,
+            "name": "Alprostadil",
+            "description": "Puede potenciar el efecto anticoagulante de la heparina,  incrementar el riesgo de hemorragia y aumenta el tiempo parcial de tromboplastina y el tiempo de protrombina."
+          },
+          {
+            "id": 3,
+            "name": "Antidiabéticos orales, benzodiazepinas y propanolol",
+            "description": "La heparina puede aumentar el efecto de estos."
+          },
+          {
+            "id": 4,
+            "name": "Epoetina o nitroglicerina",
+            "description": "La heparina puede disminuir el efecto de estos y puede ser necesario ajustar la dosis de heparina."
+          }
+        ]
+      },
+      {
+        "name": "Pentoxifilina",
+        "title":"Reductor de la viscosidad sanguínea e inhibidor de la agregación plaquetaria",
+        "interacciones": [
+          {
+            "id": 1,
+            "name": "Anticoagulantes orales",
+            "description": "Se recomienda controlar los valores séricos de protombina e INR."
+          },
+          {
+            "id": 2,
+            "name": "Antiagregantes plaquetarios",
+            "description": "Aumento del riesgo de hemorragia, reforzar la vigilancia clínica."
+          },
+          {
+            "id": 3,
+            "name": "Teofilina (base y sales) y aminofilina",
+            "description": "Incrementa los niveles de teofilina en algunos pacientes aumentando los efectos adversos."
+          },
+          {
+            "id": 4,
+            "name": "Antihipertensores y otros fármacos con potencial de reducción de la tensión arterial",
+            "description": "La pentoxifilina puede potenciar el efecto hipotensor, por lo que se debe reforzar el control de la tensión arterial."
+          },
+          {
+            "id": 5,
+            "name": "Insulina o antidiabéticos orales",
+            "description": "La pentoxifilina puede potenciar su efecto hipoglucemiante."
+          },
+          {
+            "id": 6,
+            "name": "Ciprofloxacino",
+            "description": "La concentración sérica de pentoxifilina se puede incrementar aumentando las reacciones adversas."
+          },
+          {
+            "id": 7,
+            "name": "Cimetidina",
+            "description": "Aumenta la concentración plasmática de pentoxifilina y el Metabolito I activo."
+          }
+        ]
+      },
+      {
+        "name": "Rivaroxabán",
+        "title":"Antitrombótico, inhibidor directo del factor Xa, altamente selectivo, con biodisponibilidad oral",
+        "interacciones": [
+          {
+            "id": 1,
+            "name": "Antimicóticos azólicos (ketoconazol, itraconazol, voriconazol y posaconazo) o inhibidores de la proteasa del VIH",
+            "description": "Aumenta el AUC media y la Cmax media."
+          },
+          {
+            "id": 2,
+            "name": "Claritromicina",
+            "description": "Inhiben intensamente sólo una de las vías de eliminación de rivaroxabán, el CYP3A4 o la P-gp, pueden aumentar las concentraciones plasmáticas de rivaroxabán en menor grado."
+          },
+          {
+            "id": 3,
+            "name": "Eritromicina",
+            "description": "Aumenta la AUC y la Cmax media de Rivaroxabán."
+          },
+          {
+            "id": 4,
+            "name": "Fluconazol",
+            "description": "Aumento de del AUC media de rivaroxabán y un aumento de la Cmax media."
+          },
+          {
+            "id": 5,
+            "name": "Dronedarona",
+            "description": "Limitada información clínica disponible."
+          },
+          {
+            "id": 6,
+            "name": "Anticoagulantes",
+            "description": "Limitada información clínica disponible."
+          },
+          {
+            "id": 7,
+            "name": "AINES e inhibidores de la agregación plaquetaria",
+            "description": "Aumentan el riesgo de hemorragia."
+          },
+          {
+            "id": 8,
+            "name": "INSRS e IRSN",
+            "description": "Mayor riesgo de hemorragia."
+          },
+          {
+            "id": 9,
+            "name": "Warfarina",
+            "description": "Aumentan el tiempo de protrombina/INR de forma importante, los efectos sobre el TTPa, la inhibición de la actividad del factor Xa y el potencial de trombina endógena (PTE) son aditivos."
+          },
+          {
+            "id": 10,
+            "name": "Rifampicina, fenitoína, carbamazepina, fenobarbital o la hierba de San Juan",
+            "description": "Disminuyen el AUC media y disminución de la concentración plasmática. "
+          }
+        ]
+      },
+      {
+        "name": "Ticagrelor",
+        "title":"Antagonista selectivo y reversible del receptor de la adenosina difosfato (ADP) que actúa en el receptor P2Y 12(*pequeñito en WORD) del ADP y puede evitar la activación y agregación plaquetarias medidas por ADP",
+        "interacciones": [
+          {
+            "id": 1,
+            "name": "Inhibidores potentes del CYP3A4",
+            "description": "Ketoconazol, claritromicina, nefazodona, ritonavir y atazanavir aumenta la Cmáx y el AUC del ticagrelor."
+          },
+          {
+            "id": 2,
+            "name": "Inductores del CYP3A",
+            "description": "Rifampicina, fenitoína, carbamacepina y fenobarbital disminuyen la exposición y eficacia del tricagrelor."
+          },
+          {
+            "id": 3,
+            "name": "Ciclosporina (inhibidor de la P-gp y el CYP3A)",
+            "description": "Aumentó la Cmax y el AUC de ticagrelor."
+          },
+          {
+            "id": 4,
+            "name": "Morfina",
+            "description": "Reducción de la eficacia de ticagrelor."
+          },
+          {
+            "id": 5,
+            "name": "Medicamentos metabolizados por CYP3A4",
+            "description": "Con dosis de simvastatina o lovastatina mayores de 40 mg, aumenta la Cmáx de estos."
+          },
+          {
+            "id": 6,
+            "name": "Atorvastatina",
+            "description": " Aumentó la Cmáx del ácido de atorvastatina y el AUG."
+          },
+          {
+            "id": 7,
+            "name": "Sustratos del CYP3A4",
+            "description": "Como cisaprida y alcaloides del cornezuelo del centeno ya que puede aumentar la exposición a estos medicamentos."
+          }
+        ]
+      },
+      {
+        "name": "Triflusal",
+        "title":"Antiagregante plaquetario y antitrombótico",
+        "interacciones": [
+          {
+            "id": 1,
+            "name": "Cafeína, teofilina, enalapril, cimetidina, warfarinas y AINEs",
+            "description": "Unión a proteínas mostraron aumento de la fracción libre de HTB (principal metabolito activo de triflusal ajustar la dosis de estos fármacos si se administran conjuntamente con triflusal."
+          }
+        ]
+      },
+      {
+        "name": "Warfarina",
+        "title":"Anticoagulante oral, inhibe la síntesis de factores II, VII, IX, X dependientes de la vitamina K a nivel hepático",
+        "interacciones": [
+          {
+            "id": 1,
+            "name": "Inductores enzimáticos: Aminoglutetimida, carbamazepina, fenazona, griseofulvina, barbitúricos (fenobarbital, secobarbital), rifampicina, hypericum perforatum (hierba de San Juan)",
+            "description": "Pueden producir inhibición del efecto anticoagulante"
+          },
+          {
+            "id": 2,
+            "name": "Inhibidores enzimáticos: Alopurinol, analgésicos (dextropropoxifeno, tramadol), antiarrítmicos (amiodarona), antibacterianos (ciprofloxacina, claritromicina, eritromicina, norfloxacino, ofloxacino, perfloxacina, cloranfenicol), antiulcerosos (cimetidina, omeprazol, ranitidina), cisaprida, disulfiram, estatinas (fluvastatina, lovastatina, simvastatina), fluconazol, fluorouracilo, fluoxetina, fluvoxamina, interferon alfa y beta, isoniazida, itraconazol, lornoxicam, metronidazol, saquinavir, tamoxifeno, viloxazina, virus gripales inactivos",
+            "description": "Pueden potenciar el efecto anticoagulante, con riesgo de hemorragias"
+          },
+          {
+            "id": 3,
+            "name": "Fármacos que desplazan a los anticoagulantes de su unión a proteínas plasmáticas, con potenciación de la actividad anticoagulante: Ácido etacrínico, ácido nalidíxico, antiinflamatorios no esteroídeos (diclofenaco, fenilbutazona, feprazona, ibuprofeno, ketoprofeno, mefenámico, sulindac), benziodarona, bicalutamida, carnitina, gemfibrozilo, hidrato cloral, miconazol, valproico",
+            "description": "Se ha registrado un aumento de su vida media del clorpropamida, con posible potenciación del efecto antidiabético"
+          },
+          {
+            "id": 4,
+            "name": "Hormonas tiroideas (levotiroxina) y neomicina",
+            "description": "Potenciación de la actividad anticoagulante"
+          },
+          {
+            "id": 5,
+            "name": "Danazol, paracetamol, quinidina, quinina, vitamina E (tocoferol)",
+            "description": "Aumenta el efecto hipoglucemiante"
+          },
+          {
+            "id": 6,
+            "name": "Alcohol etílico",
+            "description": "Altera la respuesta al anticoagulante."
+          },
+          {
+            "id": 7,
+            "name": "Anticonceptivos orales",
+            "description": "Pueden producir disminución del efecto anticoagulante  aunque en otros se ha potenciado este efecto."
+          },
+          {
+            "id": 8,
+            "name": "Ácido Ascórbico",
+            "description": "Altas pueden disminuir la absorción del anticoagulante."
+          },
+          {
+            "id": 9,
+            "name": "Benzbromarona",
+            "description": "Puede potenciar la acción y/o toxicidad del anticoagulante."
+          },
+          {
+            "id": 10,
+            "name": "Cefalosporinas (cefamandol)",
+            "description": "Puede incrementar la actividad anticoagulante."
+          },
+          {
+            "id": 11,
+            "name": "Clindamicina",
+            "description": "Puede incrementar la actividad anticoagulante."
+          },
+          {
+            "id": 12,
+            "name": "Clofibrato",
+            "description": "Puede potenciar el efecto anticoagulante."
+          },
+          {
+            "id": 13,
+            "name": "Disopiramida",
+            "description": "Puede haber una posible inhibición o potenciación de la acción anticoagulante."
+          },
+          {
+            "id": 14,
+            "name": "Diuréticos (clortalidona, espironolactona)",
+            "description": "Puede producir reducción del tiempo de protrombina."
+          },
+          {
+            "id": 15,
+            "name": "Estanozolol",
+            "description": "Puede potenciar el efecto anticoagulante, con riesgo de hemorragia."
+          },
+          {
+            "id": 16,
+            "name": " Fenitoína",
+            "description": "Puede producir variaciones en los niveles plasmáticos del anticoagulante, inducción de su metabolismo hepático, desplazamiento de la unión a proteínas plasmáticas e incluso puede alargar el tiempo de protrombina en algunos de los pacientes."
+          },
+          {
+            "id": 17,
+            "name": "Flutamida",
+            "description": "Puede aumentar el tiempo de protrombina."
+          },
+          {
+            "id": 18,
+            "name": "Ginseng",
+            "description": "Puede producir una posible inhibición del efecto anticoagulante."
+          },
+          {
+            "id": 19,
+            "name": "Piracetam",
+            "description": "Puede producir potenciación del efecto anticoagulante, con presencia de hemorragia."
+          },
+          {
+            "id": 20,
+            "name": "Propranolol",
+            "description": "Puede producir aumento de los niveles plasmáticos de warfarina, con posible potenciación de su efecto."
+          },
+          {
+            "id": 21,
+            "name": "Resinas de intercambio iónico (colestiramina)",
+            "description": "Puede producir disminución de los niveles del anticoagulante y riesgo de hemorragias."
+          },
+          {
+            "id": 22,
+            "name": "Salicilatos (ácido acetilsalicílico, diflunisal)",
+            "description": "Puede producir una posible inhibición del efecto por reducción de la absorción del anticoagulante."
+          },
+          {
+            "id": 23,
+            "name": "Sucralfato",
+            "description": "Puede producir una posible inhibición del efecto por reducción de la absorción del anticoagulante.jjjj"
+          },
+          {
+            "id": 24,
+            "name": "Sulfametoxazol",
+            "description": "Puede producir un aumento del tiempo de protrombina, con riesgo de hemorragia."
+          },
+          {
+            "id": 25,
+            "name": "Tetraciclinas (doxiciclina, tetraciclina)",
+            "description": "Puede potenciar el efecto anticoagulante, con riesgo de hemorragia."
+          },
+          {
+            "id": 26,
+            "name": "Vitamina K (fitomenadiona, menadiona)",
+            "description": "Puede inhibir el efecto anticoagulante."
+          }
+        ]
+      }
+    ],
+    "Medicamentos_naturales": [
+      {
+        "name": "Aumentan el efecto anticoagulante",
+        "interacciones": [
+          {
+            "id": 1,
+            "name": "El extracto acuoso de las hojas de Ricinus communis L. (higuereta)",
+            "description": "Aumenta riesgo de hemorragia."
+          },
+          {
+            "id": 2,
+            "name": "Ginkgo biloba",
+            "description": "Aumenta el riesgo de sangrado, ya que dilata los vasos sanguíneos y hace que la sangre circule más fluidamente."
+          },
+          {
+            "id": 3,
+            "name": "Ginseng",
+            "description": "Aumenta riesgo de hemorragia por sus propiedades vasodilatadoras, mejora la circulación de la sangre al mantener los capilares más limpios y dilatados."
+          },
+          {
+            "id": 4,
+            "name": "Moringa",
+            "description": "Aumenta el riesgo de sangrado."
+          },
+          {
+            "id": 5,
+            "name": "Sauce",
+            "description": "Aumenta el riesgo de sangrado, se utiliza como un fluidificante de la sangre."
+          }
+        ]
+      },
+      {
+        "name": "Disminuyen el efecto anticoagulante",
+        "interacciones": [
+          {
+            "id": 1,
+            "name": " Hierba de San Juan",
+            "description": "Disminuye el efecto anticoagulante, lo cual incrementa el riesgo de producción de trombos en un paciente."
+          }
+        ]
+      }
+    ],
+    "alimentos": [
+      {
+        "name": "Aumentan el efecto anticoagulante",
+        "interacciones": [
+          {
+            "id": 1,
+            "name": "Agua"
+          },
+          {
+            "id": 2,
+            "name": "Ajo"
+          },
+          {
+            "id": 3,
+            "name": "Arándanos"
+          },
+          {
+            "id": 4,
+            "name": "Cebolla"
+          },
+          {
+            "id": 5,
+            "name": "Cúrcuma"
+          },
+          {
+            "id": 6,
+            "name": "Granada"
+          },
+          {
+            "id": 7,
+            "name": "Jengibre"
+          },
+          {
+            "id": 8,
+            "name": "Limón"
+          },
+          {
+            "id": 9,
+            "name": "Omega 3"
+          },
+          {
+            "id": 10,
+            "name": "Vitamine E"
+          },
+          {
+            "id": 11,
+            "name": "Vino tinto"
+          }
+        ]
+      },
+      {
+        "name": "Disminuyen el efecto anticoagulante",
+        "interacciones": [
+          {
+            "id": 7,
+            "name": "Aceite de canola"
+          },
+          {
+            "id": 18,
+            "name": "Aceite de oliva"
+          },
+          {
+            "id": 14,
+            "name": "Aceite de soja"
+          },
+          {
+            "id": 2,
+            "name": "Acelgas"
+          },
+          {
+            "id": 9,
+            "name": "Berros"
+          },
+          {
+            "id": 15,
+            "name": "Brócoli"
+          },
+          {
+            "id": 19,
+            "name": "Col verde o Rizado"
+          },
+          {
+            "id": 16,
+            "name": "Espárragos"
+          },
+          {
+            "id": 3,
+            "name": "Espinaca"
+          },
+          {
+            "id": 10,
+            "name": "Guisantes"
+          },
+          {
+            "id": 8,
+            "name": "Hígado de ternera"
+          },
+          {
+            "id": 13,
+            "name": "Hojas de nabo"
+          },
+          
+          {
+            "id": 5,
+            "name": "Lechuga"
+          },
+          {
+            "id": 17,
+            "name": "Mayonesa"
+          },
+          {
+            "id": 12,
+            "name": "Pepino con cascara"
+          },
+          
+          
+          {
+            "id": 6,
+            "name": "Repollo"
+          },
+          {
+            "id": 11,
+            "name": "Rucula"
+          },
+          {
+            "id": 4,
+            "name": "Té verde"
+          },
+          {
+            "id": 1,
+            "name": "Verduras de hoja verde"
+          }
+        ]
+      }
+    ]
+  }
+}
