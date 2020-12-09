@@ -46,13 +46,16 @@ extension DetailNatAliViewController: UITableViewDataSource, UITableViewDelegate
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell:InteraccionesCell = tableView.dequeueReusableCell(withIdentifier: "cell", for: indexPath) as! InteraccionesCell
-        
+  
         if let interacciones = self.aumDismAlimentosNat?.interacciones {
             cell.interactionTitle.text = "\(interacciones[indexPath.row].name)"
             if interacciones[indexPath.row].description != nil {
                 cell.interactionDesc.text = "\(interacciones[indexPath.row].description ?? "")"
             }else{
-                cell.interactionDesc.removeFromSuperview()
+                if cell.interactionDesc != nil {
+                    cell.interactionDesc.removeFromSuperview()
+                }
+                
             }
         }
         return cell

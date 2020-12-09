@@ -18,16 +18,26 @@ class SearchViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        let tap: UITapGestureRecognizer = UITapGestureRecognizer(target: self, action: #selector(SearchViewController.dismissKeyboard))
+
         if let localData = self.readLocalFile(forName: "jsonData") {
             self.parse(jsonData: localData)
         }
-        view.addGestureRecognizer(tap)
+
     }
     
-    @objc func dismissKeyboard() {
-        view.endEditing(true)
-    }
+//    override func viewWillAppear(_ animated: Bool) {
+//        super.viewWillAppear(animated)
+//        NotificationCenter.default.addObserver(self, selector: #selector(keyboardWillDisappear), name: UIResponder.keyboardWillHideNotification, object: nil)
+//        NotificationCenter.default.addObserver(self, selector: #selector(keyboardWillAppear), name: UIResponder.keyboardWillShowNotification, object: nil)
+//    }
+//
+//    @objc func keyboardWillAppear() {
+//        //Do something here
+//    }
+//    
+//    @objc func keyboardWillDisappear() {
+//        self.tblSearch.endEditing(true)
+//    }
     
     private func readLocalFile(forName name: String) -> Data? {
         do {
